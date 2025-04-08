@@ -32,6 +32,6 @@ When you want a clean slate, the "Clear Canvas" feature comes to the rescue. Era
 Once your masterpiece is complete, you can download it as an image file (e.g., PNG). Share your creations with friends, save them for later, or use them in other projects.
 
 ### See for Yourself
-<a href="https://ishan2608.github.io/JS-Drawing-App/" target="__blank">Open Site</a>
+<a href="https://yashtiwaari18.github.io/Drawing-app/" target="__blank">Open Site</a>
 
 <img src="./js-drawing-app-code-output.gif" alt="Code Output">
